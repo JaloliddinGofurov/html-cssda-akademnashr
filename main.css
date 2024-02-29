@@ -1,3 +1,11 @@
+body {
+  font-size: 16px;
+  line-height: 1.5;
+  font-family: "Roboto", "Arial", sans-serif;
+  letter-spacing: 0.5;
+}
+
+
 .site-header {
   background-color: #fff;
 }
@@ -48,6 +56,7 @@
 font-size: 40px;
 line-height: 1.2;
 letter-spacing: 0.5px;
+font-family: "Roboto Condenced", "Roboto", "Arial", sans-serif ;
 }
 
 .hero-text {
@@ -60,6 +69,7 @@ letter-spacing: 0.5px;
   width: 440px;
   font-size: 72px;
   line-height: 1.2;
+  font-family: "Roboto Condenced", "Roboto", "Arial", sans-serif;
   letter-spacing: 0.5px;
 }
 
@@ -98,6 +108,7 @@ letter-spacing: 0.5px;
 .promo-heading{
   font-style: 40px;
   line-height: 48px;
+  font-family: "Roboto Condenced", "Roboto", "Arial", sans-serif;
 }
 
 .promo-text{
@@ -130,6 +141,7 @@ height: 2px;
 
 .site-footer-link-list {
   width: 224px;
+  line-height: 19px;
 }
 
 .site-footer-link-list a {
